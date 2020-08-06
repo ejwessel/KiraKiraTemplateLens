@@ -1,0 +1,948 @@
+{
+    "lens_id": "22e53aef-522f-4d2f-a216-fb0f64b45d4c",
+    "document_id": "09YkqIJJAQh8TAMlSfNt",
+    "original_document_id": "Qj9I691Bd39vyTEbBE3_",
+    "version": "24",
+    "lastChanged": "1596683072187",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "2020-07-01T10:13:46.929Z",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Edge detection"
+                    ],
+                    [
+                        "Icon"
+                    ],
+                    [
+                        "KiraKiraMaterial"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture 2"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture 3"
+                    ],
+                    [
+                        "faceMeshMask"
+                    ],
+                    [
+                        "star-texture"
+                    ],
+                    [
+                        "white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1593591585436702:328259"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "44fcbcc74d2672aa5058ed6c953f064d",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "Kira Kira",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1593591585464996:328331"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1593590783896820:205014"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1593442894321049:1713663",
+                    "name": "Files\/File12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1593577598703878:1079793",
+                    "name": "Files\/File14.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1593581014287912:148728",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1593584586038304:606729",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1593584901916960:660174",
+                    "name": "Files\/File20",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1593590783896820:205014",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1593597523620791:4147",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1593597645498680:33826",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1596681988397015:948890",
+                    "name": "Files\/File36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1596682743581684:1049606",
+                    "name": "Files\/File40.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1593435981358361:73148",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593584832163453:646053",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593590660167771:138126",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1593590674218001:147604",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1593435981320633:73073",
+                "4": "1593435981357199:73146",
+                "5": "1593590659524098:136920",
+                "6": "1593591585436702:328259",
+                "7": "1593591585464552:328330",
+                "8": "1593591585464996:328331"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "974",
+                        "v": "faceMeshMask.png"
+                    },
+                    {
+                        "k": "975",
+                        "v": "white.png"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Edge detection.lsmat"
+                    },
+                    {
+                        "k": "984",
+                        "v": "KiraKiraMaterial.lsmat"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "star-texture.png"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "Icon.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "972",
+                        "v": "e37e2df40208d87bfb5f50548a3f895a"
+                    },
+                    {
+                        "k": "973",
+                        "v": "84820c785dcdf52a10644baddf82883e"
+                    },
+                    {
+                        "k": "974",
+                        "v": "502f53dc7c3ec4c063a9681556227f62"
+                    },
+                    {
+                        "k": "975",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "977",
+                        "v": "9d164253ebbaaa97a89cff4e50befbf6"
+                    },
+                    {
+                        "k": "978",
+                        "v": "20fba695d075336366da5b21ac312417"
+                    },
+                    {
+                        "k": "979",
+                        "v": "2d4a4ff5bce234c5bb480afbbf5ecbf1"
+                    },
+                    {
+                        "k": "980",
+                        "v": "ff175fb91f9726875decb3cc6a43a0ba"
+                    },
+                    {
+                        "k": "981",
+                        "v": "28d340e48fb1e441f05af039a46534b2"
+                    },
+                    {
+                        "k": "982",
+                        "v": "0cc38b838c6c2de562411f2d9eca07e1"
+                    },
+                    {
+                        "k": "983",
+                        "v": "e11b18313285dca28eb4d478477205b5"
+                    },
+                    {
+                        "k": "984",
+                        "v": "092f9c8403208b7ee209b6e71439e32c"
+                    },
+                    {
+                        "k": "985",
+                        "v": "dcef40f11c245ee64c09c88705161c22"
+                    },
+                    {
+                        "k": "986",
+                        "v": "26c61da15919ea85b6d7f87fc76a115d"
+                    },
+                    {
+                        "k": "987",
+                        "v": "fbf0e0fd5342c7f2319bc04cf3811dc0"
+                    },
+                    {
+                        "k": "988",
+                        "v": "fe4af2c30fa5e4f1cfae1b75ed7f5303"
+                    },
+                    {
+                        "k": "989",
+                        "v": "654c78ac94b978236daa659817052f34"
+                    },
+                    {
+                        "k": "990",
+                        "v": "39f9f12bf7b426ac37d9c68b76e294a4"
+                    },
+                    {
+                        "k": "991",
+                        "v": "1f31bc499cfc0370cbd59a0b4d423e21"
+                    },
+                    {
+                        "k": "992",
+                        "v": "5ea194d28e5a31d0e85e1cbf7a96c67a"
+                    },
+                    {
+                        "k": "993",
+                        "v": "1e9734161f85d05f1591017d6a276ba8"
+                    },
+                    {
+                        "k": "994",
+                        "v": "322a817710d3b30e53d5eb21038c3446"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "c7498864374faedc4931d6fe55db025c"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "d23574038be85c2381b78024681138c2"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "c7498864374faedc4931d6fe55db025c"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "fc7bc589c1403fe588ed1d1280a54de7"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "cc65a56e7eca168bf5efd6545a48c6e6"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "f709d1a5ce3ef882456e48b155f98ccd"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-08-05T19:59:58",
+                        "name": "Public",
+                        "hash": "787e82d5ce5a4490b4a4fc1167a36495",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-08-05T19:44:49",
+                                "name": "Textures",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-01T13:23:36",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-05T19:58:42",
+                                "name": "Icon.png",
+                                "hash": "f709d1a5ce3ef882456e48b155f98ccd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-05T19:46:21",
+                                "name": "star-texture.png",
+                                "hash": "fc7bc589c1403fe588ed1d1280a54de7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-09-04T18:20:48",
+                                "name": "faceMeshMask.png",
+                                "hash": "502f53dc7c3ec4c063a9681556227f62",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-08-05T19:59:58",
+                                "name": "KiraKiraMaterial.lsmat",
+                                "hash": "c04e22ea58075dddfbe66589c80cf27e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-01T18:12:48",
+                                "name": "Edge detection.lsmat",
+                                "hash": "2d4a4ff5bce234c5bb480afbbf5ecbf1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-05-21T18:20:02",
+                                "name": "white.png",
+                                "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-04T13:37:14",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faceMeshMask",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "14",
+                        "dependency": "0",
+                        "uid": "1593442894321049:1713663",
+                        "fileId": "12",
+                        "originalId": "13",
+                        "publicId": "974",
+                        "source": "C:\/Users\/dendy\/Downloads\/Face-reference-assets-classic\/FaceAssets\/Textures\/faceMeshMask.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "white",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "15",
+                        "dependency": "0",
+                        "uid": "1593577598703878:1079793",
+                        "fileId": "14",
+                        "originalId": "15",
+                        "publicId": "975",
+                        "source": "C:\/Users\/dendy\/Documents\/LensStudio\/MEGA TEARS\/Public\/Textures\/white.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "976",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1593581014287912:148728",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture 2",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1593584586038304:606729",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture 4",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "35",
+                                "dependency": "0",
+                                "uid": "1593597523620791:4147",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Screen Texture 3",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "37",
+                                "dependency": "0",
+                                "uid": "1593597645498680:33826",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Edge detection",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "20",
+                        "dependency": "0",
+                        "uid": "1593584901916960:660174",
+                        "fileId": "20",
+                        "originalId": "21",
+                        "publicId": "979",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "KiraKiraMaterial",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1593590783896820:205014",
+                        "fileId": "28",
+                        "originalId": "29",
+                        "publicId": "984",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "star-texture",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1596681988397015:948890",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "1009",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-08-05 at 19.46.20.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Icon",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "43",
+                        "dependency": "0",
+                        "uid": "1596682743581684:1049606",
+                        "fileId": "40",
+                        "originalId": "41",
+                        "publicId": "1011",
+                        "source": "\/Users\/ejwessel\/Desktop\/Icon.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1596682743581684:1049606",
+                        "path_list": [
+                            "Icon"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
